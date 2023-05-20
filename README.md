@@ -1,8 +1,14 @@
 # app-dev
 **1. Marvel**
-2. Avengers **
 
-| Characters | Superpowers |
+
+| Characters | Abilities |
 | ----------- | ----------- |
 | Spiderman | Spider Sense |
 | Hulk | Unlimited strength |
+
+**2. Disney**
+| Characters | Abilities |
+| ----------- | ----------- |
+| Jack Frost | Freeze |
+| Peter Pan | Magic |
